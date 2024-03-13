@@ -1,0 +1,90 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "flim.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Strfinfo&Flowchart_1",
+        "rottentomatolist&Flowchart_1",
+        "imdblist&Flowchart_1",
+        "StrYear&Flowchart_1",
+        "StrHour&Flowchart_1",
+        "strtryagain&Flowchart_1",
+        "Strchoic&Flowchart_1",
+        "Strfilmname&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "IMDB.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "imdblist&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_year",
+        "out_hour",
+        "in_out_filmname"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RottenTomato.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strinfo&Sequence_1",
+        "split_info&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_strhour",
+        "out_stryear",
+        "out_listtomato",
+        "in_out_filmname"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "print.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_year",
+        "in_Hour",
+        "in_filmname"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "DeclareList.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "out_listtomato",
+        "out_listimdb"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
